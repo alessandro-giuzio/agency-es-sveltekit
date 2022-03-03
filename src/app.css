@@ -3,3 +3,28 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+h2.highlight,
+h3.highlight,
+.highlight {
+	display: inline;
+	background: linear-gradient(
+		transparent 0%,
+		transparent 40%,
+		#ffd200 40%,
+		#ffd200 75%,
+		transparent 75%,
+		transparent 100%
+	);
+}
+
+.links {
+	color: #0f00ff;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+.links:hover {
+	color: #ee0e01;
+	text-decoration: none;
+}
