@@ -1,5 +1,16 @@
 <script>
 	import '../app.css';
-</script>
+	import Navbar from '$lib/components/Navbar.svelte';
+	import Footer from '$lib/components/footer.svelte';
+	import Logo from '$lib/components/logo.svelte';
 
-<slot />
+
+</script>
+<body class="font-inconsolata bg-baseColor lg:h-screen ">
+
+<Navbar />
+<Footer />
+
+	<slot />
+</body>
+

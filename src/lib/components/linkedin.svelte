@@ -1,0 +1,20 @@
+<a
+          class="hover:text-gray-900"
+          href="https://www.linkedin.com/in/alessandrogiuzio/"
+          target="_blank"
+        >
+          <svg
+            class="mx-4"
+            width="25"
+            height="25"
+
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <title>Linkedin</title>
+            <path
+              d="M5.5 8V16M15.5 16V12C15.5 10.067 13.933 8.5 12 8.5C10.067 8.5 8.5 10.067 8.5 12V16V8M5 5.5H6M1.5 0.5H19.5C20.0523 0.5 20.5 0.947715 20.5 1.5V19.5C20.5 20.0523 20.0523 20.5 19.5 20.5H1.5C0.947716 20.5 0.5 20.0523 0.5 19.5V1.5C0.5 0.947716 0.947715 0.5 1.5 0.5Z"
+              stroke="#0A0909"
+            ></path>
+          </svg>
+        </a>
