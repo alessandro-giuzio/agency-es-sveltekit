@@ -9,6 +9,7 @@
     import Main from '$lib/components/main.svelte';
 	import Grow from '$lib/components/grow.svelte';
 	import Trabajos from '$lib/components/trabajos.svelte';
+	import Form from '$lib/components/form.svelte';
 
 	onMount(async () => {
     themeChange(false)
@@ -23,6 +24,7 @@
 <Main />
 <Grow />
 <Trabajos />
+<Form />
 <Footer />
 
 	<slot />

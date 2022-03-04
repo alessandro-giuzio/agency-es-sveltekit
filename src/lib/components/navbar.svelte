@@ -12,7 +12,8 @@ import ThemeSelect from "./theme-select.svelte";
 
 
   <ul class="flex flex-row flex-wrap justify-evenly uppercase text-xl">
-    <li><ThemeSelect /></li>
+
+    <li class="themeS"><ThemeSelect /></li>
     <li>
       <a
         class="text-xl text-candyAppleRed font-bold border-current border-b-4 hover:border-none"
@@ -47,3 +48,10 @@ import ThemeSelect from "./theme-select.svelte";
 </header>
 
 
+<style>
+  @media only screen and (max-width: 640px){
+ .themeS{
+   display: none;
+  }
+}
+</style>

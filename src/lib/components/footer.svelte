@@ -56,8 +56,4 @@ import Linkedin from "./linkedin.svelte";
     </div>
   </footer>
 
-  <style>
-    footer {
-      background-color: #ffa400;
-    }
-  </style>
+
