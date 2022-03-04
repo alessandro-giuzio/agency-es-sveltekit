@@ -1,9 +1,9 @@
 <section
-      class="flex justify-center mx-4 md:w-2/3 md:mx-auto pt-24 lg:pt-30 pb-32 lg:pb-40"
+      class=" bg-baseColor1 flex justify-center mx-4 md:w-2/3 md:mx-auto pt-24 lg:pt-30 pb-32 lg:pb-40 "
     >
-      <div class="lg:flex items-center justify-center gap-x-14">
+      <div class="lg:flex items-center justify-center gap-x-14 ">
         <!-- decription -->
-        <div class="lg:w-1/4 mb-16 lg:mb-0">
+        <div class="lg:w-1/4 mb-16 lg:mb-0 ">
           <h2
             class="inline-block text-3xl lg:text-4xl font-semibold uppercase text-black highlight"
           >

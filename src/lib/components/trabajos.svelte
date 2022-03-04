@@ -1,4 +1,4 @@
-<section class="pt-8 lg:pt-40 pb-4">
+<section class="pt-8 lg:pt-40 pb-4 bg-baseColor1">
     <h2
       class="text-center text-3xl lg:text-4xl font-semibold uppercase text-black mb-20 lg:mb-24"
     >

@@ -10,7 +10,7 @@
 
 
 </script>
-<body class="font-inconsolata bg-baseColor lg:h-screen ">
+<body class="font-inconsolata bg-baseColor1 lg:h-screen ">
 
 <Navbar />
 <Hero />

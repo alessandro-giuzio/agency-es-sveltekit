@@ -7,9 +7,9 @@
         </div>
       </div>
       <div>
-        <h1 class="text-4xl font-bold">¡Hola! Soy Alessandro, diseñador y desarrollador dedicado a crear
+        <h1 class="text-4xl font-bold text-black">¡Hola! Soy Alessandro, diseñador y desarrollador dedicado a crear
             soluciones web efectivas que construirán tu empresa.</h1>
-        <p class="text-2xl py-6">Aprovecho mi valiosa practica en diseño y desarrollo para crear
+        <p class="text-2xl py-6 text-black">Aprovecho mi valiosa practica en diseño y desarrollo para crear
             <strong class="highlight">
               experiencias de usuario agradables, receptivas y centradas en la
               versatilidad.
