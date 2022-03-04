@@ -1,6 +1,6 @@
-<section class="pt-8 lg:pt-40 pb-4 bg-baseColor1">
+<section class="pt-8 lg:pt-40 pb-4 ">
     <h2
-      class="text-center text-3xl lg:text-4xl font-semibold uppercase text-black mb-20 lg:mb-24"
+      class="text-center text-4xl lg:text-4xl font-semibold uppercase text-black mb-20 lg:mb-24"
     >
       Mis trabajos anteriores
     </h2>
@@ -13,11 +13,11 @@
         <!-- decription -->
         <div class="lg:w-1/4">
           <h2
-            class="inline-block text-xl font-semibold uppercase text-black highlight"
+            class="inline-block text-2xl font-semibold uppercase text-black highlight"
           >
             Resume
           </h2>
-          <p class="leading-relaxed my-6 text-gray-700">
+          <p class="text-xl leading-relaxed my-6 text-gray-700">
             Mi primer trabajo con Bootstrap, un marco frontend utilizado para
             crear páginas web con capacidad de respuesta móvil que son
             rápidas.
@@ -57,11 +57,11 @@
         <!-- decription -->
         <div class="lg:w-1/4">
           <h2
-            class="inline-block highlight text-xl font-semibold uppercase text-black"
+            class="inline-block highlight text-2xl font-semibold uppercase text-black"
           >
             PrometeoCV
           </h2>
-          <p class="leading-relaxed my-6 text-gray-700">
+          <p class="text-xl leading-relaxed my-6 text-gray-700">
             PrometeoCV diseña y fabrica sistemas de suelos y sistemas de
             calefacción. Chimeneas y estufas de las mejores marcas de Italia.
             Diseño y construcción de sistemas solares térmicos e integración
@@ -100,11 +100,11 @@
         <!-- decription -->
         <div class="lg:w-1/4">
           <h2
-            class="inline-block text-xl font-semibold uppercase text-black highlight"
+            class="inline-block text-2xl font-semibold uppercase text-black highlight"
           >
             Travel To Space - Scrimba & Kevin Powell Proyecto
           </h2>
-          <p class="leading-relaxed my-6 text-gray-700">
+          <p class="text-xl leading-relaxed my-6 text-gray-700">
             Seamos realistas; si quieres ir al espacio, también podrías ir
             genuinamente al espacio exterior y no flotar en el borde de eso.
             Pues siéntate y relájate porque te daremos un esta experiencia

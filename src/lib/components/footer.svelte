@@ -5,7 +5,7 @@ import Twitter from "./twitter.svelte";
 import Linkedin from "./linkedin.svelte";
 
 </script>
-<footer class="py-16 bg-baseColor2">
+<footer class="py-16">
     <div
       class="flex flex-col lg:flex-row items-center justify-between mx-auto max-w-screen-xl"
     >
@@ -55,3 +55,9 @@ import Linkedin from "./linkedin.svelte";
       >
     </div>
   </footer>
+
+  <style>
+    footer {
+      background-color: #ffa400;
+    }
+  </style>

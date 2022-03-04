@@ -1,4 +1,4 @@
-<div class="hero  bg-basecolor">
+<div class="hero pb-16 lg:pb-0 max-w-3xl">
     <div class="hero-content flex-col lg:flex-row-reverse">
      <!--  <img class="border-8 rounded-lg border-white" src="../static/profile.18e0f915.webp" alt="Alessandro portrait"> -->
      <div class="avatar">

@@ -1,5 +1,5 @@
 <section
-      class=" bg-baseColor1 flex justify-center mx-4 md:w-2/3 md:mx-auto pt-24 lg:pt-30 pb-32 lg:pb-40 "
+      class=" flex justify-center mx-4 md:w-2/3 md:mx-auto pt-24 lg:pt-30 pb-32 lg:pb-40 "
     >
       <div class="lg:flex items-center justify-center gap-x-14 ">
         <!-- decription -->

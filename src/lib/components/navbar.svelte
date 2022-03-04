@@ -1,14 +1,18 @@
 <script>
 
-
+import ThemeSelect from "./theme-select.svelte";
 
 </script>
-<header class=" justify-between bg-white pb-2  w-full z-40">
+
+<header class=" justify-between pb-2  w-full z-40">
+
   <nav
   class="lg:max-w-screen-xl my-4  ml-auto mr-auto mb-8"
 >
 
+
   <ul class="flex flex-row flex-wrap justify-evenly uppercase text-xl">
+    <li><ThemeSelect /></li>
     <li>
       <a
         class="text-xl text-candyAppleRed font-bold border-current border-b-4 hover:border-none"
@@ -38,6 +42,7 @@
       >
     </li>
   </ul>
+
 </nav>
 </header>
 

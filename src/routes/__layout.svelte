@@ -1,20 +1,26 @@
 <script>
 	import '../app.css';
+	import { onMount } from 'svelte'
+    import { themeChange } from 'theme-change'
 	import Navbar from '$lib/components/Navbar.svelte';
 	import Footer from '$lib/components/footer.svelte';
 	import Logo from '$lib/components/logo.svelte';
 	import Hero from '$lib/components/hero.svelte';
-    import Cards from '$lib/components/cards.svelte';
+    import Main from '$lib/components/main.svelte';
 	import Grow from '$lib/components/grow.svelte';
 	import Trabajos from '$lib/components/trabajos.svelte';
 
+	onMount(async () => {
+    themeChange(false)
+  })
+
 
 </script>
-<body class="font-inconsolata bg-baseColor1 lg:h-screen ">
+<body class="font-inconsolata  lg:h-screen ">
 
 <Navbar />
 <Hero />
-<Cards />
+<Main />
 <Grow />
 <Trabajos />
 <Footer />
