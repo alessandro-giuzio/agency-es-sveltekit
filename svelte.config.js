@@ -4,7 +4,7 @@ import adapter from '@sveltejs/adapter-netlify';
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
 	kit: {
-		adapter: netlify()
+		adapter: adapter()
 	},
 
 	preprocess: [
@@ -14,4 +14,8 @@ const config = {
 	]
 };
 
-export default config;
+export default {
+	kit: {
+		adapter: adapter()
+	}
+};
