@@ -1,4 +1,4 @@
-<div class="hero pb-16 lg:py-20 lg:flex justify-center items-center bg-gray-100  ">
+<div class="hero pt-16 pb-16 lg:py-20 lg:flex justify-center items-center bg-gray-100  ">
     <div class="hero-content flex-col lg:flex-row-reverse text-left">
      <!--  <img class="border-8 rounded-lg border-white" src="../static/profile.18e0f915.webp" alt="Alessandro portrait"> -->
      <div class="avatar">

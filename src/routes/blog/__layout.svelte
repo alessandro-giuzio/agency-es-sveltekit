@@ -1,7 +1,7 @@
 <script>
 	import '../../app.css';
 </script>
-<body class="font-inconsolata bg-baseColor lg:h-screen ">
+<body class="bg-baseColor font-inconsolata w-screen ">
 
 </body>
 <slot />

@@ -1,5 +1,5 @@
 <!-- Start of Services section -->
-<section class=" py-16 lg:py-24 shadow-inner">
+<section class=" py-16 lg:py-24 shadow-inner bg-baseColor2">
     <div class="lg:flex justify-evenly  gap-x-18">
      <!-- Service 1-->
 

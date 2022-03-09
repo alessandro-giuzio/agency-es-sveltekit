@@ -17,7 +17,7 @@
           >
             Resume
           </h2>
-          <p class="text-xl leading-relaxed my-6 text-gray-700">
+          <p class="text-xl leading-relaxed my-6 text-black">
             Mi primer trabajo con Bootstrap, un marco frontend utilizado para
             crear páginas web con capacidad de respuesta móvil que son
             rápidas.
@@ -61,7 +61,7 @@
           >
             PrometeoCV
           </h2>
-          <p class="text-xl leading-relaxed my-6 text-gray-700">
+          <p class="text-xl leading-relaxed my-6 text-black">
             PrometeoCV diseña y fabrica sistemas de suelos y sistemas de
             calefacción. Chimeneas y estufas de las mejores marcas de Italia.
             Diseño y construcción de sistemas solares térmicos e integración
@@ -104,7 +104,7 @@
           >
             Travel To Space - Scrimba & Kevin Powell Proyecto
           </h2>
-          <p class="text-xl leading-relaxed my-6 text-gray-700">
+          <p class="text-xl leading-relaxed my-6 text-black">
             Seamos realistas; si quieres ir al espacio, también podrías ir
             genuinamente al espacio exterior y no flotar en el borde de eso.
             Pues siéntate y relájate porque te daremos un esta experiencia
