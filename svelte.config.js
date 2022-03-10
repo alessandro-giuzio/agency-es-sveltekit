@@ -1,17 +1,19 @@
 import preprocess from 'svelte-preprocess';
-/* import adapter from '@sveltejs/adapter-auto'; */
-import adapter from '@sveltejs/adapter-netlify';
+import adapter from '@sveltejs/adapter-static';
+/* import adapter from '@sveltejs/adapter-netlify'; */
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
 	kit: {
+		target: '#svelte',
 		adapter: adapter()
 	},
 
-	preprocess: [
-		preprocess({
-			postcss: true
-		})
-	]
+	prerender: {
+		crawl: true,
+		enabled: true,
+		onError: 'continue',
+		pages: ['*']
+	}
 };
 
 export default {
