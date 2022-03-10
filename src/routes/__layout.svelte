@@ -1,10 +1,11 @@
 <script>
-	import '../app.css';
-	import { onMount } from 'svelte'
+	  import '../app.css';
+	  import { onMount } from 'svelte'
     import { themeChange } from 'theme-change'
     import Nav from '$lib/components/nav.svelte';
-
     import Footer from '$lib/components/Footer.svelte';
+
+
 
 
 
@@ -26,9 +27,10 @@
 
 <Nav />
 
+
+
 <Footer />
-
-
 
 </body>
 
+>
