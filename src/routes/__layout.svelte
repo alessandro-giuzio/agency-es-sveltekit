@@ -3,7 +3,7 @@
 	  import { onMount } from 'svelte'
     import { themeChange } from 'theme-change'
     import Nav from '$lib/components/nav.svelte';
-  /*   import Footer from '$lib/components/Footer.svelte'; */
+    import Footer from '$lib/components/Footer.svelte';
 
 
 
@@ -29,7 +29,7 @@
 
 
 
-<!-- <Footer /> -->
+ <Footer />
 
 </body>
 
