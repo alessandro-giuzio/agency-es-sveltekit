@@ -23,7 +23,6 @@
                   src="images/svg/accept-call.svg"
                   width="30"
                   height="30"
-                  viewbox="0 0 30 30"
                   alt="telephone icon"
                 />
               </div>
