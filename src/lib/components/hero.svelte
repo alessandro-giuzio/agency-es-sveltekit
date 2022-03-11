@@ -3,7 +3,7 @@
      <!--  <img class="border-8 rounded-lg border-white" src="../static/profile.18e0f915.webp" alt="Alessandro portrait"> -->
      <div class="avatar">
         <div class="w-64 mask mask-hexagon">
-          <img src="../static/images/profile/profile.webp" alt="Alessandro smiling portrait">
+          <img src="../static/images/profile/profile.jpg" alt="Alessandro smiling portrait">
         </div>
       </div>
       <div>
