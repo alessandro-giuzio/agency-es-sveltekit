@@ -19,7 +19,7 @@
           <div>
             <div class="flex items-center mb-10">
               <div class="p-2 rounded-full mr-6 ">
-                <img-100
+                <img
                   src="images/svg/accept-call.svg"
                   width="30"
                   height="30"
