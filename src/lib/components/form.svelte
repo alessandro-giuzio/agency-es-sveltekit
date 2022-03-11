@@ -20,7 +20,7 @@
             <div class="flex items-center mb-10">
               <div class="p-2 rounded-full mr-6 ">
                 <img-100
-                  src="../static/images/svg/accept-call.svg"
+                  src="images/svg/accept-call.svg"
                   width="30"
                   height="30"
                   viewbox="0 0 30 30"
@@ -40,7 +40,7 @@
           <div class="flex items-center mb-10">
             <div class="p-2 rounded-full mr-6 ">
               <img
-                src="../static/images/svg/email-received.svg"
+                src="images/svg/email-received.svg"
                 height="30"
                 width="30"
                 alt="email icon"
@@ -61,7 +61,7 @@
           <div class="flex items-center mb-10">
             <div class="p-2 rounded-full  mr-6">
               <img
-                src="../static/images/svg/google-map.svg"
+                src="images/svg/google-map.svg"
                 width="30"
                 height="30"
                 alt="google maps pin point"
