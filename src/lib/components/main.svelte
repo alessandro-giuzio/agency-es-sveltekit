@@ -45,7 +45,7 @@
           class="mx-4 md:w-2/3 md:mx-auto mb-16 lg:mx-0 lg:mb-0 lg:w-80 flex flex-col items-center"
         >
           <img
-            src="../static/images/svg/digital-media.svg"
+            src="/static/images/svg/digital-media.svg"
             alt=" mobile phone screen with message icons "
             height="30"
             width="30"
