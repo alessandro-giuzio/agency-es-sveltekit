@@ -27,7 +27,7 @@
                 <div class="flex items-center mb-10">
                   <div class="p-2 rounded-full mr-6 bg-gray-100">
                     <img
-                      src="./static/images/svg/accept-call.svg"
+                      src="images/svg/accept-call.svg"
                       width="30"
                       height="30"
 
@@ -47,7 +47,7 @@
               <div class="flex items-center mb-10">
                 <div class="p-2 rounded-full mr-6 bg-gray-100">
                   <img
-                    src="./static/images/svg/email-received.svg"
+                    src="images/svg/email-received.svg"
                     height="30"
                     width="30"
                     alt="email icon"
@@ -68,7 +68,7 @@
               <div class="flex items-center mb-10">
                 <div class="p-2 rounded-full bg-gray-100 mr-6">
                   <img
-                    src="./static/images/svg/google-map.svg"
+                    src="images/svg/google-map.svg"
                     width="30"
                     height="30"
                     alt="google maps pin point"
