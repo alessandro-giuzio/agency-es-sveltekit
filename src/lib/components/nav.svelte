@@ -4,7 +4,7 @@
 
 
 
-    import ThemeSelect from "./theme-select.svelte";
+
 
     </script>
 <Headroom>
@@ -17,7 +17,7 @@
 
       <ul class="flex flex-row flex-wrap justify-evenly uppercase text-xl">
 
-        <li class="themeS"><ThemeSelect /></li>
+
         <li>
           <a
             class="text-xl text-candyAppleRed font-bold border-current border-b-4 hover:border-none"
@@ -53,10 +53,3 @@
     </Headroom>
 
 
-    <style>
-      @media only screen and (max-width: 640px){
-     .themeS{
-       display: none;
-      }
-    }
-    </style>

@@ -1,7 +1,7 @@
 <script>
 	  import '../app.css';
-	  import { onMount } from 'svelte'
-    import { themeChange } from 'theme-change'
+	  /* import { onMount } from 'svelte' */
+    /* import { themeChange } from 'theme-change' */
     import Nav from '$lib/components/nav.svelte';
     import Footers from '$lib/components/footers.svelte';
 
@@ -13,9 +13,9 @@
 
 
 
-	onMount(async () => {
+/* 	onMount(async () => {
     themeChange(false)
-  })
+  }) */
 
 
 
