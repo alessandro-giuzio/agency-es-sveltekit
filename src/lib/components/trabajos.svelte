@@ -40,7 +40,7 @@
           ></div>
           <img
             class="h-full w-full object-cover"
-            src="../static/images/works/resume.webp"
+            src="images/works/resume.webp"
             alt="máquina de escritura mecánica."
           />
         </div>
