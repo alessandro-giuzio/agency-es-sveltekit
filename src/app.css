@@ -28,3 +28,21 @@ h3.highlight,
 	color: #ee0e01;
 	text-decoration: none;
 }
+
+.three {
+	background: #ee0e01;
+	border-radius: 9999px;
+	color: #fff;
+	content: counter(big-numbers);
+	display: block;
+	font-family: bodoni-urw, sans-serif;
+	font-size: 5rem;
+	left: -3rem;
+	line-height: 145px;
+	position: absolute;
+	text-align: center;
+	top: -50px;
+	width: 145px;
+	height: 145px;
+	z-index: -1;
+}

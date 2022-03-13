@@ -27,15 +27,15 @@
     import Main from "$lib/components/main.svelte";
     import Hero from "$lib/components/hero.svelte";
     import Trabajos from "$lib/components/trabajos.svelte";
-    import Trabajos1 from "$lib/components/trabajos1.svelte";
+    import Planes from "$lib/components/planes.svelte";
     import Form from "$lib/components/form.svelte";
 
 </script>
 <body>
     <Hero />
     <Main />
-    <Trabajos1 />
     <Trabajos />
+    <Planes />
     <Form />
 </body>
 

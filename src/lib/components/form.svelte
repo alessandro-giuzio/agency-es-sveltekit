@@ -1,5 +1,5 @@
 <!-- Start of 'Contact' Landing -->
-<section class="pt-16">
+<section>
     <!-- Contact Info + Form Container -->
     <div class="w-full lg:flex ">
       <div
@@ -79,7 +79,7 @@
       </div>
       <!-- Contact Form -->
       <div
-        class="flex-grow justify-center  px-8 lg:px-20 py-20 lg:py-48"
+        class="flex-grow justify-center  px-8 lg:px-20 py-10 lg:py-48"
       >
         <div class="flex justify-center">
           <div>
