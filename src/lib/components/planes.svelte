@@ -17,15 +17,15 @@
           </svg>
         </div>
         <div class="flex-grow sm:text-left text-center mt-6 sm:mt-0">
-          <h2 class="text-black text-xl title-font font-medium mb-2">Sitios web responsive</h2>
-          <p class="leading-relaxed text-base font-medium text-black">Blue bottle crucifix vinyl post-ironic four dollar toast vegan taxidermy. Gastropub indxgo juice poutine.</p>
+          <h2 class="text-black text-2xl title-font font-medium mb-2">Sitios web responsive</h2>
+          <p class="leading-relaxed text-base font-medium text-black">Desarrollo de aplicaciones móviles centradas en la versatilidad. Una interfaz de usuario fácil de usar.Para tu comodidad, desarrollo una interfaz fácil de usar y sin dificultad para actualizarla a medida que tu negocio se expande.</p>
 
         </div>
       </div>
       <div class="flex items-center lg:w-3/5 mx-auto border-b pb-10 mb-10 border-gray-200 sm:flex-row flex-col">
         <div class="flex-grow sm:text-left text-center mt-6 sm:mt-0">
-          <h2 class="text-gray-900 text-lg title-font font-medium mb-2">The Catalyzer</h2>
-          <p class="leading-relaxed text-base">Blue bottle crucifix vinyl post-ironic four dollar toast vegan taxidermy. Gastropub indxgo juice poutine.</p>
+          <h2 class="text-black text-2xl title-font font-medium mb-2">Marketing Digital & Redes Sociales</h2>
+          <p class="leading-relaxed text-base text-black font-medium">Utilizo estrategias probadas de publicidad, SEO y redes sociales para hacer crecer su negocio y vencer a la competencia.Las redes sociales son esenciales para conseguir una buena reputación, rejuvenecer tu marca y posicionarla en el mercado competitivo de manera eficaz y así mejorar las ventas.</p>
 
         </div>
         <div class="sm:w-32 sm:order-none order-first sm:h-32 h-20 w-20 sm:ml-10 inline-flex items-center justify-center rounded-full bg-indigo-100 text-indigo-500 flex-shrink-0">
@@ -44,8 +44,8 @@
           </svg>
         </div>
         <div class="flex-grow sm:text-left text-center mt-6 sm:mt-0">
-          <h2 class="text-gray-900 text-lg title-font font-medium mb-2">The 400 Blows</h2>
-          <p class="leading-relaxed text-base">Blue bottle crucifix vinyl post-ironic four dollar toast vegan taxidermy. Gastropub indxgo juice poutine.</p>
+          <h2 class="text-black text-2xl title-font font-medium mb-2">SEO</h2>
+          <p class="leading-relaxed text-base text-black font-medium">Puede que le sorprenda saber que el 75% de las personas que realizan búsquedas online nunca van más allá de la primera página de Google; si  no estas ahí, ¡nadie lo encontrará!</p>
 
         </div>
       </div>

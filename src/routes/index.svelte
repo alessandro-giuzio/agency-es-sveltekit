@@ -29,6 +29,8 @@
     import Trabajos from "$lib/components/trabajos.svelte";
     import Planes from "$lib/components/planes.svelte";
     import Form from "$lib/components/form.svelte";
+    import Bloghome from "$lib/components/bloghome.svelte";
+    /* import Grow from "$lib/components/grow.svelte"; */
 
 </script>
 <body>
@@ -37,6 +39,8 @@
     <Trabajos />
     <Planes />
     <Form />
+    <Bloghome />
+   <!--  <Grow /> -->
 </body>
 
 
