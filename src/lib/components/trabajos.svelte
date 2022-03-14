@@ -12,7 +12,7 @@
 
         <div class="bg-white shadow-md border border-gray-200 rounded-lg max-w-sm dark:bg-gray-800 dark:border-gray-700 ">
 
-              <img class="rounded-t-lg object-cover h-48 w-96" src="/static/images/works/resume.webp" alt="máquina de escritura mecánica.">
+              <img class="rounded-t-lg object-cover h-48 w-96" src="images/works/resume.webp" alt="máquina de escritura mecánica.">
 
               <div class="p-5">
 
@@ -34,7 +34,7 @@
       <!-- Segundo proyecto -->
       <div class="bg-white shadow-md border border-gray-200 rounded-lg max-w-sm dark:bg-gray-800 dark:border-gray-700">
 
-            <img class="rounded-t-lg object-cover h-48 w-96" src="static/images/works/prometeocv.webp" alt="artista de estrada hechando fuego por la boca">
+            <img class="rounded-t-lg object-cover h-48 w-96" src="mages/works/prometeocv.webp" alt="artista de estrada hechando fuego por la boca">
 
         <div class="p-5">
 
@@ -54,7 +54,7 @@
     </div>
     <div class="bg-white shadow-md border border-gray-200 rounded-lg max-w-sm dark:bg-gray-800 dark:border-gray-700">
 
-          <img class="rounded-t-lg object-cover h-48 w-96" src="static/images/works/space.webp" alt="">
+          <img class="rounded-t-lg object-cover h-48 w-96" src="images/works/space.webp" alt="">
 
       <div class="p-5">
 
