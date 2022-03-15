@@ -1,14 +1,24 @@
-<section class="lg:mt-4  shadow-inner rounded-r-10xl lg:rounded-r-full items-center bg-baseColor2">
-    <div class="px-10 mx-auto text-center max-w-7xl">
-        <!-- <h3 class=" mb-5 text-lg text-white">
-          Planes flexibles diseñados para satisfacer las necesidades de
-          cualquier equipo.
-        </h3> -->
+<section class="lg:mt-8  shadow-inner rounded-r-10xl lg:rounded-r-full items-center bg-baseColor2">
+
+    <div class="flex justify-center">
+      <h2 class=" mb-5 text-3xl font-bold text-white">
+        ESTA INDUSTRIA SE MUEVE RAPIDO,
+
+        <span
+          class="font-handwriting text-3xl lg:text-4xl font-medium mb-1 text-black"
+          >PERO </span
+        >TU PUEDES ESTAR AL DIA:
+      </h2>
+
+    </div>
+
+    <!-- <div class="px-10 mx-auto text-center max-w-7xl">
+
         <h2 class="text-3xl font-bold text-white">
           Soluciones web que construyen
           <span class="text-black">Tu Negocio</span>
         </h2>
-      </div>
+      </div> -->
     <div class="container px-5 py-24 mx-auto">
       <div class="flex items-center lg:w-3/5 mx-auto border-b pb-10 mb-10 border-gray-200 sm:flex-row flex-col">
         <div class="sm:w-32 sm:h-32 h-20 w-20 sm:mr-10 inline-flex items-center justify-center rounded-full bg-indigo-100 text-indigo-500 flex-shrink-0">
@@ -45,7 +55,7 @@
         </div>
         <div class="flex-grow sm:text-left text-center mt-6 sm:mt-0">
           <h2 class="text-black text-2xl title-font font-medium mb-2">SEO</h2>
-          <p class="leading-relaxed text-base text-black font-medium">Puede que le sorprenda saber que el 75% de las personas que realizan búsquedas online nunca van más allá de la primera página de Google; si  no estas ahí, ¡nadie lo encontrará!</p>
+          <p class="leading-relaxed text-base text-black font-medium">Puede que te sorprenda saber que el 75% de las personas que realizan búsquedas online nunca van más allá de la primera página de Google; si  no estas ahí, ¡nadie lo encontrará!</p>
 
         </div>
       </div>

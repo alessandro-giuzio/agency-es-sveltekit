@@ -2,14 +2,14 @@
     <div class="hero-content flex-col lg:flex-row-reverse text-left">
      <!--  <img class="border-8 rounded-lg border-white" src="../static/profile.18e0f915.webp" alt="Alessandro portrait"> -->
      <div class="avatar">
-        <div class="w-64 mask mask-hexagon">
-          <img src="images/profile/profile.webp" alt="">
+        <div class="w-64 mask mask-squircle">
+          <img src="images/profile/profile.webp" alt="foto de Alessandro sonriente">
         </div>
       </div>
       <div>
         <h1 class="text-4xl font-bold text-black">¡Hola! Soy Alessandro, diseñador y desarrollador dedicado a crear
             soluciones web efectivas que construirán tu empresa.</h1>
-        <p class="text-2xl py-6 text-black">Aprovecho mi valiosa practica en diseño y desarrollo para crear
+        <p class="text-2xl py-6 text-black">Aprovecho mi valiosa práctica en diseño y desarrollo para crear
             <strong class="highlight">
               experiencias de usuario agradables, receptivas y centradas en la
               versatilidad.
