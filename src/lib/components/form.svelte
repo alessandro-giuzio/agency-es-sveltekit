@@ -3,11 +3,11 @@
     <!-- Contact Info + Form Container -->
     <div class="w-full lg:flex ">
       <div
-        class="relative flex-grow justify-center px-8 lg:px-20 flex items-center py-20 lg:py-48 rounded-r-full overflow-hidden"
+        class="relative flex-grow justify-center px-8 lg:px-20 flex items-center py-20  rounded-r-full overflow-hidden"
       >
-        <div
+        <!-- <div
           class="absolute top-0 right-0 bottom-0 left-0 "
-        ></div>
+        ></div> -->
         <!-- Contact Info -->
         <div class="z-10">
           <h2
