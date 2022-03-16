@@ -32,15 +32,15 @@
           </div>
       </div>
       <!-- Segundo proyecto -->
-      <div class="bg-white shadow-md border border-gray-200 rounded-lg max-w-sm dark:bg-gray-800 dark:border-gray-700">
+      <div class="bg-white shadow-md border border-gray-200 rounded-lg max-w-sm  dark:border-gray-700">
 
             <img class="rounded-t-lg object-cover h-48 w-96" src="images/works/prometeocv.webp" alt="artista de estrada hechando fuego por la boca">
 
         <div class="p-5">
 
-                <h5 class="text-black uppercase highlight font-bold text-2xl tracking-tight mb-2 dark:text-white">PrometeoCV</h5>
+                <h5 class="text-black uppercase highlight font-bold text-2xl tracking-tight mb-2 ">PrometeoCV</h5>
 
-            <p class="font-normal text-xl leading-relaxed text-black my-4 mb-3 dark:text-gray-400">   PrometeoCV diseña y fabrica sistemas de suelos y sistemas de
+            <p class="font-normal text-xl leading-relaxed text-black my-4 mb-3 ">   PrometeoCV diseña y fabrica sistemas de suelos y sistemas de
                 calefacción. Chimeneas y estufas de las mejores marcas de Italia.<!-- Diseño y construcción de sistemas solares térmicos e integración
                 con pequeños generadores. --></p>
                 <a href="https://prometeocv.com/" target="_blank"
@@ -52,15 +52,15 @@
                 </button></a>
         </div>
     </div>
-    <div class="bg-white shadow-md border border-gray-200 rounded-lg max-w-sm dark:bg-gray-800 dark:border-gray-700">
+    <div class="bg-white shadow-md border border-gray-200 rounded-lg max-w-sm  dark:border-gray-700">
 
           <img class="rounded-t-lg object-cover h-48 w-96" src="images/works/space.webp" alt="">
 
       <div class="p-5">
 
-              <h5 class="text-black uppercase highlight font-bold text-2xl tracking-tight mb-2 dark:text-white">Travel To Space </h5>
+              <h5 class="text-black uppercase highlight font-bold text-2xl tracking-tight mb-2 ">Travel To Space </h5>
 
-          <p class="font-normal text-xl leading-relaxed text-black my-4 mb-3 dark:text-gray-400">Seamos realistas; si quieres ir al espacio, también podrías ir
+          <p class="font-normal text-xl leading-relaxed text-black my-4 mb-3 ">Seamos realistas; si quieres ir al espacio, también podrías ir
             genuinamente al espacio exterior y no flotar en el borde de eso.
            <!--  Pues siéntate y relájate porque te daremos un esta experiencia
             mundial! --></p>

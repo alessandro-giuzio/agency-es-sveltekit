@@ -3,15 +3,15 @@
     <!-- Contact Info + Form Container -->
     <div class="w-full lg:flex ">
       <div
-        class="relative flex-grow justify-center px-8 lg:px-20 flex items-center py-20  rounded-r-full overflow-hidden"
+        class="relative flex-grow justify-center px-8 lg:px-20 flex items-center   rounded-r-full overflow-hidden"
       >
-        <!-- <div
+        <div
           class="absolute top-0 right-0 bottom-0 left-0 "
-        ></div> -->
+        ></div>
         <!-- Contact Info -->
         <div class="z-10">
           <h2
-            class="text-2xl mb-5 text-black font-inconsolata uppercase font-bold"
+            class="text-center text-2xl mb-5 text-black font-inconsolata uppercase font-bold"
           >
             Contacto
           </h2>
@@ -79,14 +79,14 @@
       </div>
       <!-- Contact Form -->
       <div
-        class="flex-grow justify-center  px-8 lg:px-20 py-10 lg:py-48"
+        class="flex-grow justify-center  px-8 lg:px-20 py-10 "
       >
         <div class="flex justify-center">
           <div>
             <h2 class="text-4xl mb-5 text-black font-handwriting">
               Deja una nota
             </h2>
-            <span class=" text-3xl font-bold text-brightPink mb-5"
+            <span class=" text-3xl font-bold text-candyAppleRed mb-5"
               >TODO EMPIEZA CON UN HOLA</span
             >
             <!-- Form -->
@@ -104,7 +104,7 @@
               <div class="input-animated">
                 <label htmlfor="name" class="w-full label-name"
                   ><span class="content-name w-full text-l"
-                    >Nombre e Apellidos</span
+                    >Nombre y Apellidos</span
                   ></label
                 >
                 <input

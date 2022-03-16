@@ -1,5 +1,6 @@
 
 <svelte:head>
+
 <!-- Title -->
 <title>Web Design Especialista en Marketing Digital y SEO</title>
  <!-- Meta Description -->
@@ -31,6 +32,7 @@
     import Form from "$lib/components/form.svelte";
     import Bloghome from "$lib/components/bloghome.svelte";
     /* import Grow from "$lib/components/grow.svelte"; */
+
 
 </script>
 <body>

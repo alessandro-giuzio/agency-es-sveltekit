@@ -1,8 +1,9 @@
 <section class="lg:mt-8  shadow-inner rounded-r-10xl lg:rounded-r-full items-center bg-baseColor2">
 
-    <div class="flex justify-center">
+    <div class="flex justify-center lg:justify-start ml-1 ">
+
       <h2 class="mt-3 mb-5 text-3xl font-bold text-white ">
-        ESTA INDUSTRIA SE MUEVE RAPIDO,
+        ESTA INDUSTRIA SE MUEVE <span class="rapido">RAPIDO,</span>
 
         <span
           class="font-handwriting text-3xl lg:text-4xl font-medium mb-1 text-black"
@@ -62,3 +63,8 @@
 
     </div>
   </section>
+
+
+
+
+

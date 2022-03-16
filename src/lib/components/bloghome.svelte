@@ -10,7 +10,7 @@
       <div class="flex flex-wrap -m-4">
         <div class="p-4 md:w-1/3">
           <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-            <img class="lg:h-48 md:h-36 w-full  object-cover object-center" src="images/blog/imposter.webp" alt="blog">
+            <img class="lg:h-48 md:h-36 w-full  object-cover object-center" src="images/blog/imposter.webp" alt="una persona cayendo por un agujero en un cono de luz blanca">
             <div class="p-6">
               <h3 class="tracking-widest text-xs title-font font-medium text-gray-500 uppercase mb-1">Productividad | 19 Enero 2022</h3>
               <h2 class="title-font uppercase highlight text-lg font-medium text-black mb-3">Cómo combatir el síndrome del impostor</h2>
@@ -38,7 +38,7 @@
         <!-- Blog post #2 -->
         <div class="p-4 md:w-1/3">
           <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="images/blog/websitebuilder.webp" alt="blog">
+            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="images/blog/websitebuilder.webp" alt="unas manos dibujando layouts sobre papel">
             <div class="p-6">
               <h3 class="tracking-widest text-xs title-font font-medium text-gray-500 uppercase mb-1">DESAROLLO WEB | 03 Enero 2022 </h3>
               <h2 class="title-font uppercase highlight text-lg font-medium text-black mb-3">NO SOLO CONSTRUIMOS SITIOS WEB.</h2>
@@ -66,7 +66,7 @@
         <!-- Blog post #3 -->
         <div class="p-4 md:w-1/3">
             <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-              <img class="lg:h-48 md:h-36  object-cover object-center" src="images/coffee_growth.webp" alt="blog">
+              <img class="lg:h-48 md:h-36  object-cover object-center" src="images/coffee_growth.webp" alt="una planta cresciendo en una bombilla">
               <div class="p-6">
                 <h3 class="tracking-widest text-xs title-font font-medium text-gray-500 uppercase mb-1">Productividad | 20 Dic 2021</h3>
                 <h2 class="title-font uppercase highlight text-lg font-medium text-black mb-3">Haga que tu negocio crezca</h2>
