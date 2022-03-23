@@ -1,4 +1,15 @@
+<script>
+import Html from "$lib/herramientas/html.svelte";
+import Css3 from "$lib/herramientas/css3.svelte";
+import Bootstrap from "$lib/herramientas/bootstrap.svelte";
+import Tailwind from "$lib/herramientas/tailwind.svelte";
+import Js from "$lib/herramientas/js.svelte";
+import Git from "$lib/herramientas/git.svelte";
+import Npm from "$lib/herramientas/npm.svelte";
+import Figma from "$lib/herramientas/figma.svelte";
 
+
+</script>
 
 <main class="pt-4 pb-4 lg:pt-4 lg:pb-6 flex flex-col shadow-inner">
     <article class="w-full lg:w-1/2 lg:mx-auto mt-24 ">
@@ -37,10 +48,18 @@
         habilidades y estar preparado para nuevos proyectos.
       </p>
       <h2 class="highlight text-2xl lg:text-2xl mt-12 mb-4 text-gray-800 font-semibold">Mis herramientas de trabajo</h2>
-      <ul>
+      <ul class="flex justify-between gap-2 mb-2">
 
 
-        <li><p class="text-black">Lorem ipsum dolor sit amet.</p></li>
+        <li><Html/></li>
+        <li><Css3/></li>
+        <li><Js/></li>
+        <li><Bootstrap/></li>
+        <li><Tailwind/></li>
+        <li><Git/></li>
+        <li><Npm/></li>
+        <li><Figma/></li>
+
 
       </ul>
 

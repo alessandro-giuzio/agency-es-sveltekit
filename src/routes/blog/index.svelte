@@ -46,7 +46,7 @@
           <!-- 2nd Blog Post-->
           <div class="flex flex-col md:w-1/2 md:mr-4 md:mb-0">
             <a
-              href="./blog/crea-tu-pagina-web.svelte"
+              href="./blog/crea-tu-pagina-web"
               class="inline-block rounded-md transition-all duration-300 shadow-sm hover:shadow-lg transform hover:scale-105 p-4 mb-16 md:mb-12 border border-gray-200 bg-white"
             >
               <div class="rounded-md overflow-hidden h-48 lg:h-72">
