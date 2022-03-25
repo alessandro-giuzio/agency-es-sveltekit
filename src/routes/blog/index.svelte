@@ -1,5 +1,20 @@
+
+
+
+
+
+
 <!-- Start of Blog -->
 <main class="pt-4 mt-12 px-4  flex flex-col shadow-inner">
+
+<!--   <h1>GraphCMS starter blog</h1>
+<ul>
+  {#each posts as post}
+  <li>
+    <a href="/blog/{post.slug}">{post.title}</a>
+  </li>
+  {/each}
+</ul> -->
     <section class="pb-40 lg:pt-40 lg:pb-60 flex justify-center">
       <ul
         class="mx-8 w-full md:mx-auto md:w-11/12 lg:mx-auto lg:w-2/3 xl:w-1/2"
