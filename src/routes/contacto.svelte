@@ -10,10 +10,10 @@
         <!-- Contact Info + Form Container -->
         <div class="w-full lg:flex ">
           <div
-            class="relative flex-grow justify-center px-8 lg:px-20 flex items-center py-20 lg:py-48 rounded-r-full overflow-hidden"
+            class="relative flex-grow justify-center px-8 lg:px-20 flex items-center py-20 lg:py-48 rounded-r-full overflow-hidden bg-baseColor2"
           >
             <div
-              class="absolute top-0 right-0 bottom-0 left-0 bg-baseColor2"
+              class="absolute top-0 right-0 bottom-0 left-0 "
             ></div>
             <!-- Contact Info -->
             <div class="z-10">
@@ -87,7 +87,7 @@
           </div>
           <!-- Contact Form -->
           <div
-            class="flex-grow justify-center bg-baseColor2 px-8 lg:px-20 py-20 lg:py-48"
+            class="flex-grow justify-center  px-8 lg:px-20 py-20 lg:py-48"
           >
             <div class="flex justify-center">
               <div>
@@ -110,7 +110,7 @@
                     /></label>
                   </p>
                   <div class="input-animated">
-                    <label htmlfor="name" class="w-full label-name"
+                    <label for="name" class="w-full label-name"
                       ><span class="content-name w-full"
                         >Nombre e Apellidos</span
                       ></label
@@ -127,7 +127,7 @@
                   </div>
 
                   <div class="input-animated">
-                    <label htmlfor="company" class="w-full label-name"
+                    <label for="company" class="w-full label-name"
                       ><span class="content-name w-full"
                         >Nombre Empresa</span
                       ></label
@@ -143,7 +143,7 @@
                   </div>
 
                   <div class="input-animated">
-                    <label htmlfor="website" class="w-full label-name"
+                    <label for="website" class="w-full label-name"
                       ><span class="content-name w-full"
                         >Website (Opcional)</span
                       ></label
@@ -159,7 +159,7 @@
                   </div>
 
                   <div class="input-animated">
-                    <label htmlfor="email" class="label-email"
+                    <label for="email" class="label-email"
                       ><span class="content-email">Email</span></label
                     >
                     <input
