@@ -5,7 +5,8 @@ const config = {
 		extend: {
 			fontFamily: {
 				inconsolata: ['Inconsolata'],
-				handwriting: ['Permanent Marker']
+				handwriting: ['Permanent Marker'],
+				gothic: ['League Gothic']
 			},
 
 			colors: {
@@ -14,6 +15,7 @@ const config = {
 				article: '#0f00ff',
 				footer: '#dedede',
 				white: '#fff',
+				alomostwhite: '#efefef',
 				neutral: '#262626',
 				baseColor: '#dedede',
 				baseColor1: '#ccc',
@@ -23,7 +25,9 @@ const config = {
 				brightPink: '#f40082',
 				java: '#26c9c3',
 				pistacchio: '#95cf00',
-				sapphire: '#3452a5'
+				sapphire: '#3452a5',
+				balihali: '#7f98ac',
+				gold: '#ffd200'
 			},
 
 			typography: {
