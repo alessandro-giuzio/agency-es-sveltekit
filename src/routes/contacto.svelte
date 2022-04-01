@@ -119,7 +119,6 @@
                       type="text"
                       id="name"
                       name="name"
-                      required="required"
                       pattern="\S+.*"
                       placeholder=""
                       class="w-full border-gray-300 px-3 py-2 rounded-lg shadow-sm focus:outline-none focus:border-indigo-500 focus-ring-1"
@@ -166,7 +165,6 @@
                       type="email"
                       id="email"
                       name="email"
-                      required=""
                       placeholder=""
                       class="w-full border-gray-300 px-3 py-2 rounded-lg shadow-sm focus:outline-none focus:border-indigo-500 focus-ring-1"
                     />
@@ -181,7 +179,6 @@
                       rows="6"
                       minlength="10"
                       maxlength="100"
-                      required=""
                       class="border-gray-300 w-full"
                     ></textarea>
                   </div>
