@@ -6,7 +6,7 @@
     </h2>
 </div>
 
-<section class="container mx-auto flex flex-col justify-center items-center   lg:flex-row  gap-4 bg-almostWhite">
+<section class=" mx-auto flex flex-col justify-center items-center   lg:flex-row  gap-4 bg-almostWhite">
 
         <!-- Primer Projecto -->
 

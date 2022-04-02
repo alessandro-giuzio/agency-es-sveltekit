@@ -1,4 +1,4 @@
-<section class="lg:mt-8  shadow-inner rounded-r-10xl lg:rounded-r-full items-center bg-baseColor2">
+<section class="lg:mt-8   rounded-r-10xl lg:rounded-r-full items-center bg-baseColor2">
 
     <div class="flex justify-center lg:justify-start ml-1 ">
 
