@@ -6,7 +6,7 @@
 <main class="pt-4 mt-12 px-4">
 
 <div class="px-12 pt-12">
-    <h1 class="text-6xl md:text-8xl uppercase text-center font-bold font-gothic">No solo construimos sitios web</h1>
+    <h1 class="text-black text-6xl md:text-8xl uppercase text-center font-bold font-gothic">No solo construimos sitios web</h1>
     <hr class="border-4 border-black my-8 max-w-md mx-auto">
     <h3 class="text-balihali font-bold uppercase font-gothic text-l text-center mb-12">Last update 03 Jan 2022 </h3>
 </div>
@@ -35,7 +35,7 @@
  </div>
 
  <div class="col-span-12 md:col-start-4 md:col-span-6 md:px-0">
-     <p class="text-xl lg:text-2xl mt-12 text-gray-800 font-semibold" >
+     <p class="text-xl lg:text-2xl mt-12 text-black font-semibold" >
          Hoy en día, trabajo con ciertas empresas selectas que buscan impulsar su presencia en la red para llegar a lo más alto y nunca bajar de la cima. ¿Usted también busca lo mismo?
      </p>
      <a href="/contacto" class="font-bold">
