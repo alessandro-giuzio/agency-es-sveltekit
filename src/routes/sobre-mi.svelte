@@ -11,7 +11,7 @@ import Figma from "$lib/herramientas/figma.svelte";
 
 </script>
 
-<main class="pt-4 pb-4 lg:pt-4 lg:pb-6 flex flex-col shadow-inner">
+<main class="pt-4 pb-4 lg:pt-4 lg:pb-6 flex flex-col shadow-inner bg-baseColor">
     <article class="w-full lg:w-1/2 lg:mx-auto mt-24 ">
       <h1
         class="text-5xl sm:text-7xl text-center font-bold text-candyAppleRed mb-4"

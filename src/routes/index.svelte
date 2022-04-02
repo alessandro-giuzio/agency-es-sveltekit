@@ -35,7 +35,7 @@
 
 
 </script>
-<body>
+<div>
     <Hero />
     <Main />
     <Trabajos />
@@ -43,7 +43,7 @@
     <Form />
     <Bloghome />
    <!--  <Grow /> -->
-</body>
+</div>
 
 
 

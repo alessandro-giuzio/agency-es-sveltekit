@@ -1,7 +1,9 @@
-<script>
 
-import Blogindex from './components/blogindex.svelte';
+<script>
+  import Blogindex from './components/blogindex.svelte';
 </script>
+
+
 
 <svelte:head>
 
@@ -28,10 +30,12 @@ import Blogindex from './components/blogindex.svelte';
 
   </svelte:head>
 
-<body>
+<div>
   <Blogindex />
+</div>
 
-</body>
+
+
 
 
 

@@ -1,16 +1,18 @@
 <script>
 	import '../../app.css';
-	import Nav from '$lib/components/nav.svelte';
+	/* import Nav from '$lib/components/nav.svelte'; */
+	/* import Blogindex from './components/blogindex.svelte'; */
 
 </script>
 
 
-<body class="bg-baseColor font-inconsolata w-screen ">
+
 	<slot />
 
-	<Nav />
+	<!-- <Nav /> -->
+	<!-- <Blogindex /> -->
 
 
 
-</body>
+
 

@@ -22,7 +22,7 @@
 
 
 </script>
-<body class="bg-baseColor font-inconsolata w-screen">
+<div class="bg-baseColor font-inconsolata w-screen">
 <slot />
 
 
@@ -32,5 +32,5 @@
 
 <Footers />
 
-</body>
+</div>
 

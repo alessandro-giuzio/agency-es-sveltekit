@@ -1,7 +1,7 @@
 <!-- Start of 'Contact' Landing -->
 <section>
     <!-- Contact Info + Form Container -->
-    <div class="w-full lg:flex ">
+    <div class="w-full lg:flex bg-almostWhite ">
       <div
         class="relative flex-grow justify-center px-8 lg:px-20 flex items-center   rounded-r-full overflow-hidden"
       >
@@ -102,7 +102,7 @@
                 /></label>
               </p>
               <div class="input-animated">
-                <label htmlfor="name" class="w-full label-name"
+                <label for="name" class="w-full label-name"
                   ><span class="content-name w-full text-l"
                     >Nombre y Apellidos</span
                   ></label
@@ -119,7 +119,7 @@
               </div>
 
               <div class="input-animated">
-                <label htmlfor="company" class="w-full label-name"
+                <label for="company" class="w-full label-name"
                   ><span class="content-name w-full text-l"
                     >Nombre Empresa</span
                   ></label
@@ -135,7 +135,7 @@
               </div>
 
               <div class="input-animated">
-                <label htmlfor="website" class="w-full label-name"
+                <label for="website" class="w-full label-name"
                   ><span class="content-name w-full text-l"
                     >Website (Opcional)</span
                   ></label
@@ -151,7 +151,7 @@
               </div>
 
               <div class="input-animated">
-                <label htmlfor="email" class="label-email"
+                <label for="email" class="label-email"
                   ><span class="content-email text-l ">Email</span></label
                 >
                 <input

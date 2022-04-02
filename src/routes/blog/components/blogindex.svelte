@@ -1,5 +1,5 @@
 <!-- Start of Blog -->
-<main class="pt-4 mt-12 px-4  flex flex-col shadow-inner">
+<main class="pt-4 mt-12 px-4  flex flex-col shadow-inner bg-alomostwhite">
 
 
     <section class="pb-40 lg:pt-40 lg:pb-60 flex justify-center">

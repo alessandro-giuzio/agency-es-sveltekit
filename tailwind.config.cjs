@@ -15,7 +15,7 @@ const config = {
 				article: '#0f00ff',
 				footer: '#dedede',
 				white: '#fff',
-				alomostwhite: '#efefef',
+				almostWhite: '#efefef',
 				neutral: '#262626',
 				baseColor: '#dedede',
 				baseColor1: '#ccc',
@@ -27,7 +27,8 @@ const config = {
 				pistacchio: '#95cf00',
 				sapphire: '#3452a5',
 				balihali: '#7f98ac',
-				gold: '#ffd200'
+				gold: '#ffd200',
+				bootstrap: '#563d7c'
 			},
 
 			typography: {

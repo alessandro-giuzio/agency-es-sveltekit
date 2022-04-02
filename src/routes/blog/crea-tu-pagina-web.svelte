@@ -3,7 +3,7 @@
 
 
 
-<main class="pt-4 mt-12 px-4">
+<main class="pt-4 mt-12 px-4 bg-baseColor">
 
 <div class="px-12 pt-12">
     <h1 class="text-black text-6xl md:text-8xl uppercase text-center font-bold font-gothic">No solo construimos sitios web</h1>

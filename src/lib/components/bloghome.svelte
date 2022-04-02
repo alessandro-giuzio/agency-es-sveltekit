@@ -1,4 +1,4 @@
-<section class="text-black">
+<section class="text-black bg-almostWhite">
     <div class="container px-5 py-14 mx-auto relative">
         <div class="latest">
 
@@ -9,7 +9,7 @@
         <!-- Blog post #1 -->
       <div class="flex flex-wrap -m-4">
         <div class="p-4 md:w-1/3">
-          <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
+          <div class="h-full border-2 bg-white border-baseColor2 border-opacity-60 rounded-lg overflow-hidden">
             <img class="lg:h-48 md:h-36 w-full  object-cover object-center" src="images/blog/imposter.webp" alt="una persona cayendo por un agujero en un cono de luz blanca">
             <div class="p-6">
               <h3 class="tracking-widest text-xs title-font font-medium text-gray-500 uppercase mb-1">Productividad | 19 Enero 2022</h3>

@@ -1,4 +1,4 @@
-<div class="flex justify-center bg-baseColor ">
+<div class="flex justify-center bg-almostWhite">
     <h2
     class="highlight  text-center text-3xl lg:text-4xl font-semibold uppercase text-black mb-10 mt-10 lg:mb-14"
     >
@@ -6,7 +6,7 @@
     </h2>
 </div>
 
-<section class="container mx-auto flex flex-col justify-center items-center   lg:flex-row  gap-4 ">
+<section class="container mx-auto flex flex-col justify-center items-center   lg:flex-row  gap-4 bg-almostWhite">
 
         <!-- Primer Projecto -->
 
