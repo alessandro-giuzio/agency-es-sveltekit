@@ -25,6 +25,7 @@
 </svelte:head>
 
 <script>
+
     import Main from "$lib/components/main.svelte";
     import Hero from "$lib/components/hero.svelte";
     import Trabajos from "$lib/components/trabajos.svelte";

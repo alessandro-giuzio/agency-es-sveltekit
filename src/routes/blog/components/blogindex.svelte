@@ -163,9 +163,7 @@
     </section> -->
     <section class="cta w-full lg:w-1/2 lg:mx-auto">
       <h2 class="text-xl lg:text-2xl mt-12 mb-4 text-black font-semibold">
-        Hoy en día, trabajo con ciertas empresas selectas que buscan impulsar
-        su presencia en la red para llegar a lo más alto y nunca bajar de la
-        cima. ¿Usted también busca lo mismo?
+        Hoy en día, trabajo con un grupo de empresas selectas que buscan impulsar su presencia en la red para llegar a lo más alto y no bajar de la cima. ¿Estas buscando lo mismo?
         <a class="font-bold" href="/contacto"
           ><h2 class="highlight text-4xl hover:opacity-75">
             ¡Póngase en contacto conmigo!

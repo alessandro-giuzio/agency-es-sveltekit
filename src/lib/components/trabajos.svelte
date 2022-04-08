@@ -19,7 +19,7 @@
                   <h5 class="text-black uppercase highlight font-bold text-2xl tracking-tight mb-2 ">Resumen</h5>
 
               <p class="font-normal text-xl leading-relaxed text-black my-4 mb-3 ">Mi primer trabajo con Bootstrap, un marco frontend utilizado para
-                crear páginas web con capacidad de respuesta móvil que son
+                crear páginas web con capacidad de respuesta móvil
                 rápidas.</p>
                 <a href="https://giuzio.me/" target="_blank"
                 ><button
@@ -40,8 +40,8 @@
 
                 <h5 class="text-black uppercase highlight font-bold text-2xl tracking-tight mb-2 ">PrometeoCV</h5>
 
-            <p class="font-normal text-xl leading-relaxed text-black my-4 mb-3 ">   PrometeoCV diseña y fabrica sistemas de suelos y sistemas de
-                calefacción. Chimeneas y estufas de las mejores marcas de Italia.<!-- Diseño y construcción de sistemas solares térmicos e integración
+            <p class="font-normal text-xl leading-relaxed text-black my-4 mb-3 ">   PrometeoCV diseña y fabrica sistemas de suelos y
+                calefacción con chimeneas y estufas de las mejores marcas de Italia.<!-- Diseño y construcción de sistemas solares térmicos e integración
                 con pequeños generadores. --></p>
                 <a href="https://prometeocv.com/" target="_blank"
                 ><button
@@ -60,8 +60,7 @@
 
               <h5 class="text-black uppercase highlight font-bold text-2xl tracking-tight mb-2 ">Travel To Space </h5>
 
-          <p class="font-normal text-xl leading-relaxed text-black my-4 mb-3 ">Seamos realistas; si quieres ir al espacio, también podrías ir
-            genuinamente al espacio exterior y no flotar en el borde de eso.
+          <p class="font-normal text-xl leading-relaxed text-black my-4 mb-3 ">Seamos realistas; si quieres ir al espacio, podéis tener una experiencia auténtica sin necesidad de flotar!
            <!--  Pues siéntate y relájate porque te daremos un esta experiencia
             mundial! --></p>
             <a href="https://space-kp.netlify.app" target="_blank">

@@ -14,7 +14,7 @@
 <div class="grid grid-cols-12 gap-6">
 
  <div class="col-span-12 md:col-start-4 md:col-span-6 md:px-0">
-     <p>Conectar con sus clientes en línea es una de las mejores maneras no solo de estar presente en su mente, sino también de realizar transacciones comerciales. <br>  Una presencia en línea eficaz puede ayudarlo a crecer, y desarrollarla puede ser una empresa rentable por sí misma.</p>
+     <p>Conectar con sus clientes en línea es una de las mejores maneras  de estar presente en su mente,  de realizar transacciones comerciales. <br>  Una presencia en línea eficaz puede ayudarlo a crecer, y un buen desarollo de la misma puede ser una empresa rentable por sí misma.</p>
      <hr class="border-2 border-balihali my-8 max-w-md mx-auto">
  </div>
  <div class="col-span-12 md:col-start-4 md:col-span-6 md:px-0">
@@ -36,7 +36,7 @@
 
  <div class="col-span-12 md:col-start-4 md:col-span-6 md:px-0">
      <p class="text-xl lg:text-2xl mt-12 text-black font-semibold" >
-         Hoy en día, trabajo con ciertas empresas selectas que buscan impulsar su presencia en la red para llegar a lo más alto y nunca bajar de la cima. ¿Usted también busca lo mismo?
+         Hoy en día, trabajo con un grupo de empresas selectas que buscan impulsar su presencia en la red para llegar a lo más alto y no bajar de la cima. ¿Estas buscando lo mismo?
      </p>
      <a href="/contacto" class="font-bold">
          <h2 class="highlight text-3xl hover:opacity-75">

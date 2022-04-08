@@ -17,7 +17,7 @@
      </h2>
      <p class="text-2xl text-center text-black">
        Me encargo de diseñar sitios web aptos para todos los dispositivos y
-       pantallas. Una experiencia de usuario óptima mejora drásticamente
+       pantallas. Porque Una experiencia de usuario óptima mejora drásticamente
        las ventas.
      </p>
    </div>
@@ -36,8 +36,8 @@
      SEO
    </h2>
    <p class="text-2xl text-center text-black">
-     Optimizar tu página web y dirigir el tráfico a tu web de la manera
-     correcta puede llevarlo al éxito; yo me encargo.
+     Optimizar  y dirigir el tráfico a tu web de la manera
+     correcta puede llevarla al éxito; yo me encargo.
    </p>
  </div>
 <!-- Service 3 -->

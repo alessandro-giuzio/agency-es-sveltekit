@@ -7,11 +7,11 @@
 
 
     </script>
-<Headroom>
+<Headroom offset={50}>
     <header  class=" pb-2">
 
       <nav
-      class="lg:max-w-screen-xl my-4  ml-auto mr-auto mb-8"
+      class="h-12 lg:max-w-screen-xl  mt-4  ml-auto mr-auto mb-8 "
     >
 
 

@@ -37,13 +37,13 @@
         </div>
         <!-- Blog post #2 -->
         <div class="p-4 md:w-1/3">
-          <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
+          <div class="h-full border-2 bg-white border-baseColor2 border-opacity-60 rounded-lg overflow-hidden">
             <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="images/blog/websitebuilder.webp" alt="unas manos dibujando layouts sobre papel">
             <div class="p-6">
               <h3 class="tracking-widest text-xs title-font font-medium text-gray-500 uppercase mb-1">DESAROLLO WEB | 03 Enero 2022 </h3>
               <h2 class="title-font uppercase highlight text-lg font-medium text-black mb-3">NO SOLO CONSTRUIMOS SITIOS WEB.</h2>
               <time datetime="03 Enero 2022"></time>
-              <p class="leading-relaxed mb-3">Conectar con tus clientes en línea es una de las mejores maneras no solo de estar presente en su mente, sino también de realizar transacciones comerciales.</p>
+              <p class="leading-relaxed mb-3">Conectar con tus clientes en línea es una de las mejores maneras  de estar presente en su mente,  de realizar transacciones comerciales.</p>
               <div class="flex items-center flex-wrap">
                 <a href="/blog">
                     <button
@@ -65,7 +65,7 @@
         </div>
         <!-- Blog post #3 -->
         <div class="p-4 md:w-1/3">
-            <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
+            <div class="h-full border-2 bg-white border-baseColor2 border-opacity-60 rounded-lg overflow-hidden">
               <img class="lg:h-48 md:h-36  object-cover object-center" src="images/coffee_growth.webp" alt="una planta cresciendo en una bombilla">
               <div class="p-6">
                 <h3 class="tracking-widest text-xs title-font font-medium text-gray-500 uppercase mb-1">Productividad | 20 Dic 2021</h3>
